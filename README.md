@@ -1,4 +1,4 @@
-- Linkedin : [Linkedin](https://www.linkedin.com/in/herdodimasp/)
+- Linkedin : [herdo dimas pratirto](https://www.linkedin.com/in/herdodimasp/)
 
 <p align="left">
 <a href="https://github.com/kadalicious">
