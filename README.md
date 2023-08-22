@@ -1,3 +1,5 @@
+- my name is herdo dimas pratirto**
+
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylix-eza-saputra-1bb1b7192" height="20" width="40" /> [herdo dimas pratirto](https://www.linkedin.com/in/herdodimasp/)
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_ylix" height="20" width="40" /> [herdodp](https://www.instagram.com/sahabat_pnj/)
 
