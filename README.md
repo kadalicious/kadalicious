@@ -8,3 +8,9 @@
 </a>
 </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kadalicious">
+</a>
+<a href="https://github.com/kadalicious?tab=followers"><img src="https://img.shields.io/github/followers/kadalicious?label=Followers&style=social" alt="GitHub Badge"></a>
+
