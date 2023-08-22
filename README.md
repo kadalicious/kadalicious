@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-- 💬 Ask me about anything
-- ⚡ Fun fact: i am spiderman
+- Linkedin : [Linkedin](https://www.linkedin.com/in/herdodimasp/)
 
 <p align="left">
 <a href="https://github.com/kadalicious">
