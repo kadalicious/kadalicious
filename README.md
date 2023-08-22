@@ -1,4 +1,5 @@
 - Linkedin : [herdo dimas pratirto](https://www.linkedin.com/in/herdodimasp/)
+- Instagram : [herdodp](https://www.instagram.com/sahabat_pnj/)
 
 <p align="left">
 <a href="https://github.com/kadalicious">
